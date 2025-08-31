@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15.9-green)](https://pypi.org/project/PyQt5/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://opensource.org/licenses/Apache-2.0)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2FLinux%2FmacOS-lightgrey)](https://github.com/yourusername/ibrowser)
+[![Platform](https://img.shields.io/badge/Platform-Linux)](https://github.com/yourusername/ibrowser)
 
 A lightweight web browser built with Python and PyQt5.
 
